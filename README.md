@@ -8,4 +8,6 @@ A dashboard visualizing COVID-19 data from around the world and visualiz9ing it'
 
 ## Screenshot
 
-![Screenshot 2023-07-03 164325](https://github.com/GerardRosario/PowerBI_CovidDashboard/assets/55461102/63f7980a-29a5-49e5-b4f0-9078b526abfb)
+![CovidPic1](https://github.com/GerardRosario/PowerBI_CovidDashboard/assets/55461102/65484b5c-ff88-47fd-a3bc-0be02bb2b78b)
+
+
