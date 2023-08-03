@@ -1,6 +1,6 @@
 # PowerBI_CovidDashboard
 
-A dashboard visualizing COVID-19 data from around the world and visualiz9ing it's horrible effect on the enitre world.
+A dashboard visualizing COVID-19 data from around the world and visualizing it's horrible effect on the enitre world.
 
 ## Technology / Tools
 - Excel
